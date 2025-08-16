@@ -1,0 +1,13 @@
+Para los archivos/directorios uso la siguiente nomenclatura: a_d1b1g_$, significa empieza con la tónica en A. Después sigue con la letra D, B o G, y termina con alguna otra letra ($).
+Algunas como B, pueden suplantarse con V tmb, no se aclara en el archivo pero valen, lo mismo la C y la K. La Y, LL, SH. BR puede incluir mbr por ejemplo.
+
+grupos:
+    - b/g/d
+    - c/p/t
+    - f/s/j
+    - m/n
+    - r/t
+    - ñ
+    - ch
+    - ll
+    - rr

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RapTrainer</string>
+    <string name="label_terminacion">Terminación: </string>
+    <string name="select_categories">Select Categories</string>
+    <string name="select_all">Select All</string>
+    <string name="deselect_all">Deselect All</string>
+    <string name="ok">OK</string>
+</resources>

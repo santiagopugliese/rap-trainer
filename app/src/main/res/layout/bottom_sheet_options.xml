@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottomSheetLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:padding="16dp">
+
+    <include
+        android:id="@+id/categorySelector"
+        layout="@layout/category_selector_layout" />
+
+    <include
+        layout="@layout/slider_layout" />
+
+    <TextView
+        android:id="@+id/themeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Theme"
+        android:layout_gravity="center_horizontal"
+        android:textSize="16sp"
+        android:paddingTop="8dp"/>
+
+    <Button
+        android:id="@+id/themeSelector"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Word"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="8dp"/>
+</LinearLayout>
